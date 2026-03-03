@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "LOVE DOLL",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-03-03T10:08:39.871782Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Doll",
+      "artist": "Roxx Gang",
+      "has_synced": false,
+      "path": "select/01_Love_Doll_Roxx_Gang.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LOVE DOLL",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_LOVE_DOLL_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ballad of a Love Doll",
+      "artist": "Redd Kross",
+      "has_synced": false,
+      "path": "select/03_Ballad_of_a_Love_Doll_Redd_Kross.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LOVE DOLL",
+      "artist": "Nem feat. GUMI",
+      "has_synced": false,
+      "path": "select/04_LOVE_DOLL_Nem_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Doll",
+      "artist": "Ina",
+      "has_synced": false,
+      "path": "select/05_Love_Doll_Ina.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love-Doll",
+      "artist": "AB/CD",
+      "has_synced": true,
+      "path": "select/06_Love-Doll_AB_CD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LOVE DOLL",
+      "artist": "DECO＊27",
+      "has_synced": true,
+      "path": "select/07_LOVE_DOLL_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE DOLL",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_DOLL_DECO_27.txt"
+    }
+  ]
+}
